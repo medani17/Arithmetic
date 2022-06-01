@@ -1,3 +1,1 @@
-# Arithmetic
-# arithmetic
-# Arithmetic
+number game
